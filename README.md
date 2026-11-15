@@ -2,6 +2,20 @@
 
 Free, open skills from **Sustainable Digital Impact Ventures (SDI Ventures)**. SDI Ventures helps companies and people create websites and mobile apps, and we're sharing a few of the AI assistant skills we use so anyone can put them to work.
 
+## What SDI Ventures does
+
+SDI Ventures is a website and mobile app development agency based in Tempe, Arizona. We help with:
+
+- **Web and mobile app development:** custom websites and iOS and Android apps, from design through launch.
+- **Website modernization:** turning slow, outdated, or non-mobile-friendly sites into fast, modern ones with lead and booking forms.
+- **AI implementation:** adding AI features and automations to products and business workflows.
+- **Digital presence and SEO:** on-page SEO, local search visibility, and business listing setup.
+- **Internal tools:** custom dashboards, admin panels, and operations tools like inventory or scheduling.
+- **Product strategy and design:** discovery, roadmapping, UX and UI design, and MVP scoping.
+- **Product and technical consulting:** architecture, build-versus-buy, and delivery advice for startups and growing businesses.
+
+Learn more at [sdiventures.com](https://sdiventures.com).
+
 ## What's inside
 
 | Skill | What it does |
